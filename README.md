@@ -114,25 +114,25 @@ The project screenshots document:
 ## Screenshots
 
 ### 1. Windows Server 2025 — Domain Controller Overview
-![DC01 Server Manager Overview](Screenshots/01-DC01-Server-Manager-Overview.png)
+![DC01 Server Manager Overview](Sreenshots/01-DC01-Server-Manager-Overview.png)
 
 ### 2. Active Directory Organizational Unit Structure
-![Active Directory OU Structure](Screenshots/02-Active-Directory-OU-Structure.png)
+![Active Directory OU Structure](Sreenshots/02-Active-Directory-OU-Structure.png)
 
 ### 3. CLIENT01 Domain Computer
-![CLIENT01 Domain Computer](Screenshots/03-CLIENT01-Domain-Computer.png)
+![CLIENT01 Domain Computer](Sreenshots/03-CLIENT01-Domain-Computer.png)
 
 ### 4. Group Policy — Account Lockout Security
-![Group Policy Account Lockout](Screenshots/04-Group-Policy-Account-Lockout.png)
+![Group Policy Account Lockout](Sreenshots/04-Group-Policy-Account-Lockout.png)
 
 ### 5. NTFS Permissions — IT Department
-![IT Department NTFS Permissions](Screenshots/05-IT-Department-NTFS-Permissions.png)
+![IT Department NTFS Permissions](Sreenshots/05-IT-Department-NTFS-Permissions.png)
 
 ### 6. Security Event 4740 — Account Lockout
-![Account Lockout Event 4740](Screenshots/06-Account-Lockout-Event-4740.png)
+![Account Lockout Event 4740](Sreenshots/06-Account-Lockout-Event-4740.png)
 
 ### 7. Security Event 4624 — Successful Authentication
-![Successful Logon Event 4624](https://raw.githubusercontent.com/JULSONJULES/Active-Directory-Security-Home-Lab/main/Screenshots/07-Successful-Logon-Event-4624.png)
+![Successful Logon Event 4624](https://raw.githubusercontent.com/JULSONJULES/Active-Directory-Security-Home-Lab/main/Sreenshots/07-Successful-Logon-Event-4624.png)
 ## Conclusion
 
 This home lab provided hands-on experience deploying, administering, securing, and monitoring a Microsoft Active Directory environment.
