@@ -132,7 +132,7 @@ The project screenshots document:
 ![Account Lockout Event 4740](Screenshots/06-Account-Lockout-Event-4740.png)
 
 ### 7. Security Event 4624 — Successful Authentication
-![Successful Logon Event 4624](Screenshots/07-Successful-Logon-Event-4624.png)
+![Successful Logon Event 4624](https://raw.githubusercontent.com/JULSONJULES/Active-Directory-Security-Home-Lab/main/Screenshots/07-Successful-Logon-Event-4624.png)
 ## Conclusion
 
 This home lab provided hands-on experience deploying, administering, securing, and monitoring a Microsoft Active Directory environment.
